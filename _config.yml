@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuguo Shao"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/head.png"
   bio              : "Tsinghua University & BIMSA"
   location         : "Beijing, China"
   employer         :
