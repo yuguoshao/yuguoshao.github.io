@@ -64,4 +64,4 @@ Visit <a href='https://scholar.google.com/citations?user=mUb0k8sAAAAJ'>Google Sc
 
 
 <br><br><br><br>
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=W4Q2yrEtnKb8ksne30HOSqe3QJ1BhV43gQMUQiOH4xg&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=W4Q2yrEtnKb8ksne30HOSqe3QJ1BhV43gQMUQiOH4xg&cl=ffffff&w=200"></script>
