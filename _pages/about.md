@@ -50,7 +50,8 @@ redirect_from:
 # 🔥 News
 
 
-# 📝 Publications 
+# 📝 Publications
+Visit <a href='https://scholar.google.com/citations?user=mUb0k8sAAAAJ'>Google Scholar</a>
 
 # 🎖 Honors and Awards
 - *2025.01* Golden Prize of Graduate Thesis Award (GTA) in the International Congress of Chinese Mathematicians (ICCM)
@@ -62,4 +63,5 @@ redirect_from:
 - *2016.09 - 2020.06*, B.Sc. Huazhong University of Science and Technology
 
 
-
+<br><br><br><br>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=W4Q2yrEtnKb8ksne30HOSqe3QJ1BhV43gQMUQiOH4xg&cl=ffffff&w=a"></script>
