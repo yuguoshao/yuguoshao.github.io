@@ -58,6 +58,10 @@ Visit <a href='https://scholar.google.com/citations?user=mUb0k8sAAAAJ'>Google Sc
 - *2019.03* First Prize (Professional Division) in Mathematics competition of Chinese College Students (CMC)
 
 
+# 💬 Invited Talks
+- *2025.01*, **Pauli Path Integral for Simulating Noisy Variational Quantum Algorithm**, International Congress of Chinese Mathematicians (ICCM), Shanghai. [Link](https://2024iccm.simis.cn/speakers)
+- *2024*, **Diagnosing Quantum Circuits & Taming Barren Plateaus**, Shenzhen Institute of Quantum Science and Engineering. [Link](http://www.sziqa.ac.cn/category/304/detail/6562)
+
 # 📖 Educations
 - *2020.09 - 2025.06*, Ph.D. Tsinghua University
 - *2016.09 - 2020.06*, B.Sc. Huazhong University of Science and Technology
